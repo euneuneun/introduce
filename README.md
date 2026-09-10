@@ -15,5 +15,5 @@
 
 ## 문서 링크
 - [자기소개](./members/about.md)
-- [관심 기술](./members/skills.md)
+- [관심 기술](./members/skill.md)
 - [온보딩 목표](./members/goals.md)
